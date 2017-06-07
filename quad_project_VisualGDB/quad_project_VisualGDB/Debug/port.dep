@@ -1,0 +1,19 @@
+Debug/port.o: \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/FreeRTOS.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stddef.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ ../../quad_cube/Inc/FreeRTOSConfig.h ../../quad_cube/Inc/main.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/projdefs.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/portable.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/deprecated_definitions.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/Portable/gcc/ARM_CM3/portmacro.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/mpu_wrappers.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/task.h \
+ C:\Users\pluspole\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/FreeRTOS/Source/include/list.h
